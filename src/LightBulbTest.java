@@ -16,7 +16,9 @@ public class LightBulbTest {
 		//fail("Not yet implemented");
 		assertEquals(1000,LightBulb1.getEnergy());
 		System.out.println("Lab test 1");
-		System.out.println("Lab test 1");
+		System.out.println("Lab test 2");
+		System.out.println("Lab test 3");
+
 
 	}
 

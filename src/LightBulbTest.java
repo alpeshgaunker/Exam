@@ -18,6 +18,8 @@ public class LightBulbTest {
 		System.out.println("Lab test 1");
 		System.out.println("Lab test 2");
 		System.out.println("Lab test 3");
+		System.out.println("Lab test 1");
+
 
 
 	}
